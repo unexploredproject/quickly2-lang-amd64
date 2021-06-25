@@ -1,0 +1,1 @@
+# quickly2-lang-amd64
